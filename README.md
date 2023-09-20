@@ -1,4 +1,4 @@
-# Tiny_GPT
+# TinyGPT
 This folder does contain a tiny GPT model.
 
 
